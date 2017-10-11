@@ -6,7 +6,7 @@ require 'jplayer-rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "jplayer-rails"
   spec.version       = Jplayer::Rails::VERSION
-  spec.authors       = ["Tony Miller"]
+  spec.authors       = [""]
   spec.email         = ["mcfiredrill@gmail.com"]
   spec.description   = %q{jPlayer for the rails asset pipeline.}
   spec.summary       = %q{jPlayer for the rails asset pipeline}
